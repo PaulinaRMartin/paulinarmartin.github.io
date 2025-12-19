@@ -19,7 +19,7 @@ subtitle = "Biophysics PhD student | University of Chicago \\ Physicist, Biologi
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/profilepicture.png"
+src = "img/profilepicture.jpeg"
 
 [article]
 headingAnchor = false
