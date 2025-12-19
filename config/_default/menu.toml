@@ -15,10 +15,10 @@ url = "https://github.com/PaulinaRMartin"
 [social.params]
 icon = "brand-github"
 
-#[[social]]
-#identifier = "linkedin"
-#name = "LinkedIn"
-#url = "https://www.linkedin.com/in/paulina-martin-747445a8/"
+[[social]]
+identifier = "linkedin"
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/paulina-martin-747445a8/"
 
-#[social.params]
-#icon = "brand-linkedin"
+[social.params]
+icon = "brand-linkedin"
