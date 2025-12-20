@@ -1,13 +1,19 @@
 ---
-title: Hello World
-description: Welcome to Hugo Theme Stack
-slug: hello-world
-date: 2022-03-06 00:00:00+0000
-image: entry1_cover.jpg
+title: Intermittent localization in non-Markovian random walk models with decaying memory
+description: Physics undergraduate thesis on non-Markovian random walk models with decaying memory in heterogeneous landscapes.
+slug: intermittent-localization
+date: 2025-12-19 20:09:00+0000
+image: pexels-andre-vujovic.jpg
 categories:
-    - Example Category
+    - Thesis Research
+    - Physics
+    - Statistical Mechanics
+    - Simulations
+    - Julia
 tags:
-    - Example Tag
+    - Random walk models
+    - Stochastic processes
+    - Non-Markovian random walks
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
